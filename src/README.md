@@ -19,3 +19,5 @@ src for source code
 
 1. item 1
    2. item 2
+
+markdown has *italic* and **bold**
